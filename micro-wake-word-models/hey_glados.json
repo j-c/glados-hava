@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey_glados",
+  "wake_word": "Hey GlaDOS",
   "author": "j-c",
   "website": "https://github.com/j-c",
   "model": "hey_glados.tflite",
